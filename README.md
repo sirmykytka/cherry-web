@@ -10,6 +10,6 @@ A web platform for convenient schedule management and educational process organi
 
 - **PHP / Laravel**
 - **PostgreSQL**
-- **JavaScript / Vite**
+- **JavaScript / CSS / Vite**
 
 ---
